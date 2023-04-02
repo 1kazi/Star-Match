@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Star-Match/static/css/main.4ba6751a.css",
+    "main.js": "/Star-Match/static/js/main.cd16f4bb.js",
+    "static/js/787.3c56cd33.chunk.js": "/Star-Match/static/js/787.3c56cd33.chunk.js",
+    "index.html": "/Star-Match/index.html",
+    "main.4ba6751a.css.map": "/Star-Match/static/css/main.4ba6751a.css.map",
+    "main.cd16f4bb.js.map": "/Star-Match/static/js/main.cd16f4bb.js.map",
+    "787.3c56cd33.chunk.js.map": "/Star-Match/static/js/787.3c56cd33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba6751a.css",
+    "static/js/main.cd16f4bb.js"
+  ]
+}
